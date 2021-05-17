@@ -20,6 +20,7 @@ public class Main {
         System.out.println(g);
         System.out.println(k);
         System.out.println(a);
+        System.out.println(a);
 
         int ab = 1;
         System.out.println("деление int 5 на int 1 =" + " " + a / ab);
